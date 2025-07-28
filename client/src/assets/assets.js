@@ -6,13 +6,16 @@ import screenImage from './screenImage.svg'
 import profile from './profile.png'
 
 export const assets = {
-    logo,
     marvelLogo,
     googlePlay,
     appStore,
     screenImage,
     profile
 }
+
+const assets = {
+    logo,
+};
 
 export const dummyTrailers = [
     {
